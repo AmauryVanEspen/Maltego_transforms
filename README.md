@@ -7,7 +7,7 @@ Maltego is a versatile intelligence and forensics tool used by cybersecurity pro
 
 ## Explore Our Transforms
 
-Browse our curated collection of Maltego transforms in the [Transforms](transforms/) directory. You'll find official transforms from the Maltego developer's page, community-contributed transforms, and even custom transforms developed by users like you.
+Browse our curated collection of Maltego transforms in the [Transforms](transforms/) directory (empty). You'll find official transforms from the Maltego developer's page, community-contributed transforms, and even custom transforms developed by users like you.
 
 ## Contribute and Collaborate
 
